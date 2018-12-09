@@ -1,6 +1,11 @@
 # Bomberman-Multi
 Projet Réseau
 
+
+![Bomber Man Snapshot](snap0.png?raw=true "snapshot")
+
+
+
 Lancer les programmes Bomber_client et Bomber_server dans votre terminal , vous pouvez lancez autant de clients que vous voulez .
 ex:  
 ./bomber_server.py 1980
@@ -30,3 +35,6 @@ Si vous hébergez le serveur , vous pouvez expulser quelqu'un en rentrant son ps
 
 Attention , les bombes vous bloquent le passage vous ne pouvez pas marcher dessus ! =)
 Attention , les bananes vous téléportent ;) !
+
+
+![Bomber Man Snapshot](snap1.png?raw=true "snapshot")
